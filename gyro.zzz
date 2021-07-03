@@ -1,0 +1,9 @@
+pkgs:
+  zlib:
+    version: 0.0.0
+    root: zlib.zig
+    files:
+      LICENSE
+      *.c
+      *.h
+      *.zig
